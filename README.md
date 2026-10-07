@@ -7,7 +7,7 @@ Downloaded 2026-10-07 with gallery-dl.
 
 | Folder | Files | Content |
 |---|---|---|
-| `wizualizacje/` | 55 | design visualizations / projects |
+| `wizualizacje/` | 72 | design visualizations / projects |
 | `realizacje/` | 9 | realizations |
 | `biuro/` | 23 | former office |
 | `cennik/` | 1 | price list photo |
@@ -15,4 +15,4 @@ Downloaded 2026-10-07 with gallery-dl.
 | `kolory/` | 4 | colors |
 | `posty/` | 14 | posts, reels, story |
 
-Total: 141 files (jpg/mp4/webp), ~46 MB.
+Total: 158 files (jpg/mp4/webp), ~49 MB.
