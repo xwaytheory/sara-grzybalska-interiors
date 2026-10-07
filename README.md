@@ -13,6 +13,6 @@ Downloaded 2026-10-07 with gallery-dl.
 | `cennik/` | 1 | price list photo |
 | `warsaw-expo/` | 35 | ptak warsaw expo reportage |
 | `kolory/` | 4 | colors |
-| `posty/` | 13 | posts, reels, story |
+| `posty/` | 14 | posts, reels, story |
 
-Total: 140 files (jpg/mp4/webp), ~46 MB.
+Total: 141 files (jpg/mp4/webp), ~46 MB.
