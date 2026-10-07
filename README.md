@@ -14,5 +14,6 @@ Downloaded 2026-10-07 with gallery-dl.
 | `warsaw-expo/` | 35 | ptak warsaw expo reportage |
 | `kolory/` | 4 | colors |
 | `posty/` | 14 | posts, reels, story |
+| `brand/` | 8 | logos, Sara portrait, flyer |
 
-Total: 158 files (jpg/mp4/webp), ~49 MB.
+Total: 166 files (jpg/mp4/webp/png), ~78 MB.
